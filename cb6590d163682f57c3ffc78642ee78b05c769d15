@@ -1,0 +1,47 @@
+convertors/gooddata/tests/fixtures/osi_tpcds.yaml
+  3909a2fd0eee1932 1-214
+convertors/gooddata/tests/test_roundtrip.py
+  3909a2fd0eee1932 1-5,7-75
+convertors/gooddata/README.md
+  3909a2fd0eee1932 1-61
+convertors/gooddata/tests/fixtures/gooddata_tpcds.json
+  3909a2fd0eee1932 1-259
+convertors/gooddata/tests/test_models.py
+  3909a2fd0eee1932 1-60
+convertors/gooddata/tests/test_osi_to_gooddata.py
+  3909a2fd0eee1932 1-109
+convertors/gooddata/src/gooddata_osi/osi_to_gooddata.py
+  3909a2fd0eee1932 1-290
+convertors/gooddata/tests/conftest.py
+  3909a2fd0eee1932 1-33
+convertors/gooddata/src/gooddata_osi/gooddata_to_osi.py
+  3909a2fd0eee1932 1-232
+convertors/gooddata/pyproject.toml
+  3909a2fd0eee1932 1-44
+convertors/gooddata/tests/test_gooddata_to_osi.py
+  3909a2fd0eee1932 1-127,129-144,146-160,162-163
+convertors/gooddata/src/gooddata_osi/__init__.py
+  3909a2fd0eee1932 1-6
+convertors/gooddata/src/gooddata_osi/models.py
+  3909a2fd0eee1932 1-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.17",
+  "base_commit_sha": "cb6590d163682f57c3ffc78642ee78b05c769d15",
+  "prompts": {
+    "3909a2fd0eee1932": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c4695d1b-a5ef-4a15-a27c-b897835b07dc",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jan Soubusta <jan.soubusta@gooddata.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 1876,
+      "overriden_lines": 0
+    }
+  }
+}
