@@ -1,0 +1,23 @@
+.gitignore
+  643aa4179c9987e0 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "f7eb07a720ece6229d9133e7acf01e47f9e2ca30",
+  "prompts": {
+    "643aa4179c9987e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "710d28ff-a478-4547-9451-03762d3942d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jan Soubusta <jan.soubusta@gooddata.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
