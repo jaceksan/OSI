@@ -1,0 +1,29 @@
+converters/gooddata/README.md
+  643aa4179c9987e0 1,3
+converters/gooddata/tests/conftest.py
+  643aa4179c9987e0 1
+converters/gooddata/pyproject.toml
+  643aa4179c9987e0 4
+converters/gooddata/src/gooddata_osi/__init__.py
+  643aa4179c9987e0 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "97696013db4d6ee92ea4350df9e261d84627ee30",
+  "prompts": {
+    "643aa4179c9987e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "710d28ff-a478-4547-9451-03762d3942d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jan Soubusta <jan.soubusta@gooddata.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 5,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}
