@@ -1,0 +1,33 @@
+converters/gooddata/tests/fixtures/gooddata_tpcds.json
+  c50b0c9ffc51870f 67-70,75-78,83-86,91-94
+core-spec/spec.yaml
+  c50b0c9ffc51870f 20,31
+converters/gooddata/src/gooddata_osi/models.py
+  c50b0c9ffc51870f 13-14,82-94,98,203-219,223,280,316-332
+converters/gooddata/tests/fixtures/osi_tpcds.yaml
+  c50b0c9ffc51870f 202,208,214
+converters/gooddata/src/gooddata_osi/osi_to_gooddata.py
+  c50b0c9ffc51870f 22-23,49-52,55-57,66-88,103,153,285-314
+converters/gooddata/src/gooddata_osi/gooddata_to_osi.py
+  c50b0c9ffc51870f 15,41-43,45,49,84-87,117,192-193,195-219,224-225,227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "ee5e9469015ccb941a26345db785325b45b14d6f",
+  "prompts": {
+    "c50b0c9ffc51870f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b705761-0d68-4bc7-9977-9ca12e680417",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Jan Soubusta",
+      "messages": [],
+      "total_additions": 1683,
+      "total_deletions": 44,
+      "accepted_lines": 178,
+      "overriden_lines": 0
+    }
+  }
+}
