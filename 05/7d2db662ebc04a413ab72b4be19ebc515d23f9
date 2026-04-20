@@ -1,0 +1,27 @@
+validation/validate.py
+  3909a2fd0eee1932 42,46
+core-spec/osi-schema.json
+  3909a2fd0eee1932 40,45
+core-spec/spec.md
+  3909a2fd0eee1932 38,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "057d2db662ebc04a413ab72b4be19ebc515d23f9",
+  "prompts": {
+    "3909a2fd0eee1932": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c4695d1b-a5ef-4a15-a27c-b897835b07dc",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jan Soubusta <jan.soubusta@gooddata.com>",
+      "messages": [],
+      "total_additions": 2616,
+      "total_deletions": 4,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  }
+}
