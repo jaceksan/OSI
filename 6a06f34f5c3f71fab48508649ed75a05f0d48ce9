@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "6a06f34f5c3f71fab48508649ed75a05f0d48ce9",
+  "prompts": {
+    "c50b0c9ffc51870f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b705761-0d68-4bc7-9977-9ca12e680417",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Jan Soubusta",
+      "messages": [],
+      "total_additions": 40,
+      "total_deletions": 41,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
